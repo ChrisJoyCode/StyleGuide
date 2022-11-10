@@ -1,0 +1,119 @@
+
+h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+body {
+    font: normal 16px Arial, Helvetica, sans-serif;
+}
+div.color {
+    margin: 5px;
+    border: 1px solid;
+    height: 300px;
+    padding: 10px;
+   
+}
+div.fonts {
+    margin: 5px;
+    border: 1px solid;
+    height: 300px;
+    padding: 10px;
+    
+}
+div.textstyle {
+    margin: 5px;
+    border: 1px solid;
+    height: 500px;
+    padding: 10px;
+}
+.blue {
+    display: inline-block;
+    color: white;
+    width: 30%;
+    height: 80px;
+    background-color: #3e1cc6;
+    line-height:35px;
+    padding: 10px;
+    text-align: center;
+}
+.red {
+    display: inline-block;
+    color: white;
+    width: 30%;
+    height: 80px;
+    background-color: #7b4242;
+    line-height:35px;
+    padding: 10px;
+    text-align: center;
+}
+.green {
+    display: inline-block;
+    color: white;
+    width: 30%;
+    height: 80px;
+    background-color: #03ff03;
+    line-height:35px;
+    padding: 10px;
+    text-align: center;
+}
+.yellow {
+    display: inline-block;
+    margin-top: 5px;
+    color: white;
+    width: 30%;
+    height: 80px;
+    background-color: #8d8d00;
+    line-height:35px;
+    padding: 10px;
+    text-align: center;
+
+}
+div.font1 {
+    display: inline-block;
+    font-family: 'Anton', sans-serif;
+    margin: 10px;
+    padding: 20px;
+
+}
+div.font2 {
+    display: inline-block;
+    font-family: 'Kolker Brush', cursive;
+    margin: 10px;
+    padding: 20px;
+}
+div.font3 {
+    display: inline-block;
+    font-family: 'Poor Story', cursive;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.textstyle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+
+}
+.main h1 {
+    color: black;
+    font-weight: 700px;
+    font-size: 26px;
+    font-family: 'Anton', sans-serif;
+}
+.sub h2 {
+    font-weight: 500px;
+    font-size: 26px;
+    font-family: 'Kolker Brush', cursive;
+}
+.para p {
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: 'Poor Story', cursive;
